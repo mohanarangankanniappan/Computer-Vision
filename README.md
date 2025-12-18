@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Mohanarangan Kanniappan | ML & Computer Vision</title>
+    <title> ML & Computer Vision</title>
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
