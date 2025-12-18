@@ -45,7 +45,6 @@
 </head>
 <body>
 
-<h1>👋 Mohanarangan Kanniappan</h1>
 <h3>Machine Learning | Computer Vision | Video Analytics</h3>
 
 <p>
